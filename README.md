@@ -1,1 +1,4 @@
-# Adaptive_QSOFT
+## Adaptive_QSOFT
+
+- Адаптивная верстка
+- Тестовое задание 
